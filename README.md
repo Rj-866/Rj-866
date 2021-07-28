@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Rijo george Philip
+<!--- 👋 Hi, I’m Rijo george Philip
 - 👀 I’m interested in Software Developent, Data Analytics, AI & Machine Learning
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics project
-- 📫 How to reach me ..Email me: rijophilip866@gmail.com
+- 📫 How to reach me ..Email me: rijophilip866@gmail.com-->
 
 <!---
 Rj-866/Rj-866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there, I'm Rijo George Philip [Rj-866][website] 👋
+### Hi there, I'm Rijo George Philip [Rj-866][github] 👋
 
-[![Website](https://img.shields.io/website?label=Rj-866.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rj-866)
-[![Linkedin Follow](https://img.shields.io/linkedin/follow/Rj-866?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rijo-george-philip-a715a11a5)
+[![Website](https://img.shields.io/badge/VISIT-Portfolio-green?style=for-the-badge&logo=appveyor)](https://rijophilip.co.in)
+[![Linkedin Follow](https://img.shields.io/badge/FOLLOW-%40Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rijo-george-philip-a715a11a5)
 
 ## I'm an Engineer, Data Analyst, and Developer!!
 
@@ -23,9 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="rijophilip.co.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rijophilip.co.in" width="22px" src="<img src="https://img.icons8.com/color/48/000000/internet--v2.png"/>][website]
 [<img align="left" alt="Rj-866 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-<!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="Rj-866| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rj-866| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Rj-866| Hangout" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][hangout]
