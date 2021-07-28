@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm Rijo George Philip [Rj-866][website] 👋
 
 [![Website](https://img.shields.io/website?label=Rj-866.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rj-866)
-[![Instagram Follow](https://img.shields.io/instagram/follow/Rj-866?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/rijo.gp.86/followers/)
+[![Linkedin Follow](https://img.shields.io/linkedin/follow/Rj-866?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rijo-george-philip-a715a11a5)
 
 ## I'm an Engineer, Data Analyst, and Developer!!
 
@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="Rj-866| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rj-866| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Rj-866| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hangouts.svg" />][hangout]
-[<img align="left" alt="Rj-866| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Rj-866| Hangout" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][hangout]
+[<img align="left" alt="Rj-866| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Rj-866| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
