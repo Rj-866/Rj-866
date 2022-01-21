@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m interested in Software Developent, Data Analytics, AI & Machine Learning
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and cook multi-cusine dishes 🤣
 <br />
 
