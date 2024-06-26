@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
               
 ## I'm an Engineer, Data Analyst, and Developer!!
 
-- 🔭 I’m interested in Software Developent, Data Analytics, AI & Machine Learning
+- 🔭 I’m interested in Cybersecurity, Software Developent, Data Analytics, AI & Machine Learning
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and cook multi-cusine dishes 🤣
 <br />
 
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 [course]: http://coursera.org
 <!--[twitter]: https://twitter.com/-->
 [youtube]: https://www.youtube.com/channel/UCVKIBJgKLPk_-XBo3h567_Q
-[instagram]: https://www.instagram.com/rijo.gp.86
+[instagram]: https://www.instagram.com/rijo_gp
 [linkedin]: https://www.linkedin.com/in/rijo-george-philip-a715a11a5
 [github]: https://github.com/Rj-866
 [facebook]: https://www.facebook.com/www.rijophilip
