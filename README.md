@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[website]: https://rijophilip.co.in
+[website]: https://rijophilip.ca
 [course]: http://coursera.org
 <!--[twitter]: https://twitter.com/-->
 [youtube]: https://www.youtube.com/channel/UCVKIBJgKLPk_-XBo3h567_Q
